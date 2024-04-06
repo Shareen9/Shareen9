@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Shareen9
-- 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in front end developing  
+- 📫 How to reach me shareennyatuga9@gmail.com
 
 <!---
 Shareen9/Shareen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
